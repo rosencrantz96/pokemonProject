@@ -1,11 +1,11 @@
 package pokemon;
 
-public class Pokemon {
-<<<<<<< HEAD
-	// 필드 
-	private String pokemonName;
-=======
-	private String pokemonName;
-	
->>>>>>> b42202026e0964a9cefb6f7fa0c5024f73499738
+
+public interface Pokemon {
+	public void eat();
+	public void sleep();
+	public void play();
+	public void bath();
+	public void exercise();
+	public void printInfo();
 }
