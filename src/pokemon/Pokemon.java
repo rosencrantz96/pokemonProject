@@ -8,4 +8,5 @@ public interface Pokemon {
 	public void bath();
 	public void exercise();
 	public void printInfo();
+	public void levelUp();
 }

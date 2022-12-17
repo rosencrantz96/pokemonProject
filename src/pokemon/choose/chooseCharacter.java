@@ -38,7 +38,6 @@ public class chooseCharacter {
 	}
 
 	private Pokemon showInfo() {
-		// TODO Auto-generated method stub
 		return null;
 	}
 }
