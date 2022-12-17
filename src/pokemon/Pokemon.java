@@ -9,4 +9,5 @@ public interface Pokemon {
 	public void exercise();
 	public void printInfo();
 	public void levelUp();
+	public void end();
 }
