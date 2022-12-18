@@ -10,4 +10,5 @@ public interface Pokemon {
 	public void printInfo();
 	public void levelUp();
 	public void end();
+	public void dead();
 }
