@@ -12,4 +12,5 @@ public interface Pokemon {
 	public void end();
 	public void dead();
 	public void gameStart();
+	public void sad();
 }
